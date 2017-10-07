@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    <ImageView
+            android:id="@+id/imageOne"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/picture_one" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/captionOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Build innovative software and systems engineering solutions developed rapidly and cost-effectively."
+        android:paddingTop="8dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp"
+        android:gravity="center"
+        android:textAppearance="@style/Body" />
+
+</LinearLayout>

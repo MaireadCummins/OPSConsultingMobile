@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/systemsDevMenu"
+            android:title="Software &amp; Systems Development" />
+        <item
+            android:id="@+id/softwareMenu"
+            android:title="Software Engineering" />
+        <item
+            android:id="@+id/systemMenu"
+            android:title="System Engineering" />
+        <item
+            android:id="@+id/databaseMenu"
+            android:title="Database Engineering" />
+        <item
+            android:id="@+id/networkMenu"
+            android:title="Network Engineering" />
+        <item
+            android:id="@+id/administrationMenu"
+            android:title="IT Systems and Administration" />
+
+    </group>
+
+
+</menu>

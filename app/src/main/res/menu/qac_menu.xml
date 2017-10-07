@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/estimateSoftwareMenu"
+            android:title="Defensible Estimating of Software" />
+        <item
+            android:id="@+id/softwareQualityAnalysisMenu"
+            android:title="Software Quality Analysis" />
+        <item
+            android:id="@+id/softwareDevelopmentMenu"
+            android:title="Software Development" />
+    </group>
+
+
+</menu>

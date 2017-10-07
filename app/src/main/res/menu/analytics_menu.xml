@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/trainingMenu"
+            android:title="Intelligence Analytics and Training" />
+        <item
+            android:id="@+id/growingAnalystMenu"
+            android:title="Growing the Analyst" />
+        <item
+            android:id="@+id/networkExploitationMenu"
+            android:title="Network Exploitation" />
+        <item
+            android:id="@+id/networkDefenseMenu"
+            android:title="Network Defense" />
+        <item
+            android:id="@+id/networkAttackMenu"
+            android:title="Network Attack" />
+        <item
+            android:id="@+id/networkOperationsMenu"
+            android:title="Network Operations" />
+    </group>
+
+
+</menu>

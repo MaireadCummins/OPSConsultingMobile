@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/companyMenu"
+            android:title="Our Company" />
+        <item
+            android:id="@+id/leadershipMenu"
+            android:title="Leadership" />
+        <item
+            android:id="@+id/communityMenu"
+            android:title="Community" />
+        <item
+            android:id="@+id/strategicPartnersMenu"
+            android:title="Strategic Partners" />
+        <item
+            android:id="@+id/achievementsMenu"
+            android:title="Achievements" />
+
+    </group>
+
+
+</menu>

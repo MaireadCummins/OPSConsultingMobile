@@ -1,0 +1,726 @@
+<resources>
+    <string name="app_name">OPS Consulting Mobile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="our_companytitle">About Our Company</string>
+
+    <string name="analyticstitle">Intelligence Analytics and Training</string>
+
+    <string name="careerstitle">Careers</string>
+
+    <string name="contact_ustitle">Contact Us</string>
+
+    <string name="marketstitle">Markets We Serve</string>
+
+    <string name="newseventstitle">News and Events</string>
+
+    <string name="qactititle">Defensible Estimating for Software</string>
+
+    <string name="setatitle">SETA &amp; Acquisition Support</string>
+
+    <string name="softwaretitle">Software and Systems Development</string>
+
+    <string name="analyticsmain">OPS Consulting partners some of the largest analytic contracts
+        in the IC because of our comprehensive understanding of the entire analytic life-cycle.
+        Our analysts have created unique, in-depth training which leads junior analysts through
+        three levels of training in analytic tradecraft. Analysts then move to mission work
+        centers and contribute immediately to clients\' missions. Seasoned analysts have worked
+        side-by-side with software engineers developing new tools for tomorrow\'s analysts. OPS
+        analysts specialize in:
+        \n\u2022    Collection\n
+        \n\u2022    Signals analysis\n
+        \n\u2022    Cyber Analysis\n
+        \n\u2022    Linguistics\n
+        \n\u2022    Imagery Analysis\n
+        \n\u2022    HUMINT\n
+        \n\u2022    All-source Intelligence analysis</string>
+
+    <string name ="growingtheanalystmain">Today, we see more and more attacks to our personal and
+        corporate digital fingerprints, yet little is being done to prevent further intrusions.
+        However, the OPS Consulting ‘Growing the Analyst’ curriculum, developed by Department of
+        Defense contract analysts, is a foundational template for participants to build the
+        knowledge, skills and abilities that are required to become a Cyber Analyst in today’s fast
+        paced net environments. This curriculum focuses on both technical proficiency and
+        non-technical core competencies that create practitioners who are job ready as soon as they
+        finish training.</string>
+
+    <string name="AACC">    AACC is a public, two year, open-admission institution that offers credit
+        and non-credit courses. AACC is designated as a Center of Academic Excellence in Information
+        Assurance Two Year Education (CAE2Y) by the NSA and the U.S. Department of Homeland Security.
+        AACC is also the first academic institution to be designated by the Defense Cyber Crime
+        Center (DC3) as a National Center of Digital Forensics Academic Excellence (CDFAE). AACC’s
+        CyberCenter brings the resources of the college directly to business and government
+        organizations with Cybersecurity training needs. The CyberCenter is dedicated to meeting the
+        workforce needs of government organizations and industry by developing professionals who are
+        Cybersecurity aware, have the ability to operate, maintain, protect and defend information
+        technology systems and networks, as well as investigate and analyze cyber events and crimes
+        after they occur. </string>
+
+    <string name="Afcea">AFCEA Central Maryland Chapter (AFCEA-CMD) is a non-profit membership
+        association dedicated to providing an ethical, interactive forum for sharing knowledge and
+        building relationships across government, military, industry and academia.
+        \nOur Chapter focuses primarily on enabling the intelligence missions of today and tomorrow
+        through education and investment in talented people. We accomplish our goal by promoting the
+        continuing education of current IT professionals, and supporting the education of future
+        leaders in Science, Technology, Engineering and Mathematics (STEM). Each year, proceeds from
+        our corporate sponsors and Chapter events enable us to award over $200,000 to qualified
+        students and teachers through direct scholarship, endowment or grant.
+        \nThe fastest growing and third largest chapter within AFCEA International, AFCEA-CMD includes
+        over 1800 professionals working in and around the Fort George G. Meade area. </string>
+
+    <string name="networkattackstr">OPS Consulting is quickly becoming a leader in offensive
+        computer network operations capabilities. OPS Consulting\'s outstanding team of analysts
+        can quickly develop target templates for cyber target development, provide operational
+        planning teams with all source analysis products to meet DoD and combatant commander\'s
+        requirements.
+        \n OPS Consulting\'s analysts will also work with your cyber planners to identify critical
+        intelligence gaps which will lead to the development of new intelligence reports.</string>
+
+    <string name="networkdefensestr">Defense team analysts perform defensive cyberspace operations
+        to support Department of Defense mission objectives. Analysts perform network analysis and
+        reporting of current threats to critical national infrastructure and information systems.
+        \n Some defense team network analysts have formal training and military experience in
+        securing DoD networks. Specifically, we have knowledge of:
+        \n
+        \n\u2022    Experience with DoD 5200 series\n
+        \n\u2022    Experience with DoD 8580.1\n
+        \n\u2022    Experience with DIACAP\n
+        \n\u2022    Experience with NIAP\n
+        \n\u2022    Experience with CJCSI_6510</string>
+
+    <string name="networkexplostr">OPS Consulting\'s senior network intelligence analysts works
+        efficiently and diligently to develop new network accesses. Network intelligence analysts
+        understand complex network infrastructure, information systems, network protocols, and
+        network topology to create an environment for offensive cyberspace operations.</string>
+
+    <string name="networkoperationsstr">The growing number of attacks on our cyber networks has
+        become, in President Obama\'s words, "one of the most serious economic and national security threats our nation faces."
+        \n OPS Consulting is leading the way in Computer Network Operations by building one of the
+        best teams in cyber operations. OPS Consulting\'s cyber team provides superior intelligence
+        support to protect federal government networks and, ultimately, critical infrastructure on
+        which we all depend. OPS Consulting works across the federal government and partners with
+        the private sector to promote cyber security knowledge and innovation.</string>
+
+    <string name="companyabout">OPS Consulting uses the power of technology and the science of
+        engineering to help guide its clients toward high-value and high-performance, customized
+        systems engineering, software development, and business management solutions. To help you
+        achieve mission objectives, we join your team to learn everything we can, develop and help
+        to build a comprehensive plan to achieve your goals.
+        \n
+        \n Since our founding in 1999, we have focused on building a strong corporate culture that
+        advocates teamwork and professionalism, integrity in all we do, and a focus on delivering
+        exceptional customer-focused results.
+        \n
+        \n <b>We consistently deliver successful projects by:</b>
+        \n
+        \n\u2022    Developing IT applications quickly and cost-effectively, implementing solutions that meet
+        the customer needs.\n
+        \n\u2022    Applying innovative technologies that improve productivity and process
+        efficiencies, while lowering capital expenses.\n
+        \n\u2022    Reducing IT complexities to minimize risks.\n
+        \n\u2022    Adapting to client needs.\n
+        \n\u2022    Responding to market changes and technological advancements.\n
+        \n\u2022    Working collaboratively to minimize disruptions to mission continuity, whatever that mission
+        happens to be.
+        \n
+        \n <b>What makes us different:</b>
+        \n
+        \n\u2022    100% dedication to customer needs\n
+        \n\u2022    Disciplined and systematic, yet agile, approaches deliver successful results consistently,
+        rapidly, and cost effectively.\n
+        \n\u2022    Company culture that focuses on hiring the best, empowering employees, encouraging open
+        communication, inspiring leadership, encouraging professional development, and acting with
+        integrity in all we do.</string>
+
+    <string name="companyachievements1"><b>Computer Network Attack, Computer Network Defense and Forensic Analysis</b>
+        \n On numerous contracts, OPS cyber security personnel developed and implemented sophisticated solutions,
+        including software, techniques, tool, and methodologies, that protect, secure, and exploit information.
+\n
+        \n <b>Engineering and Constructing Secure IT systems</b>
+        \nOur system architects and engineers apply industry standards and ingenuity to create secure systems.
+        We take advantage of the latest technologies (SOA, cloud computing, etc.) that scale to encompass huge
+        volumes of data for ingest, processing, storage, and dissemination. Our software developers create
+        secure applications to enable access, manipulation, mining, analysis, storage, and output of this data.
+        \n
+        \n <b>Signals Intelligence and Information Operations</b>
+        \nOn a number of contracts, OPS personnel use skillsets in signals measurement and analysis, digital
+        signals analysis and processing, signals collection, research and analysis, data mining, reporting,
+        processing, geospatial metadata analysis, all-source intelligence analysis, PROFORMA and Multi-INT sources.</string>
+
+
+    <string name="companyachievements2"><b>IT System Administration and Analysis</b>
+        \nOur personnel are responsible for building and maintaining high-performance IT solutions that keep
+        mission-critical systems up and running 24x7, 365 days a year.
+\n
+        \nBased on a thorough analysis of current infrastructure, we build cost-effective, long-term support
+        solutions for managing networks and systems. For our development customers, we build and manage
+        laboratories capable of simultaneously running multiple operating systems and simulating different
+        testing platforms.
+\n
+        \n <b>Acquisition Support and Program Management</b>
+        \nOPS supports large ACAT-1 programs throughout their lifecycle, providing system engineering,
+        acquisition support, cost analysis and estimating, and financial and program management services.
+\n
+        \nUsing a set of repeatable processes and tools that we have developed and finely tuned, OPS Consulting’s
+        key technical staff translate program requirements into cost drivers that are traceable from concept
+        through development, production, operation, and support. We provide training and customized EVMS
+        implementations to monitor programs and help organizations achieve success. </string>
+
+    <string name="companyachievements3"> Our proprietary Quality Assessment Capability has been used to
+        analyze more than 750,000,000 lines of code. Once we understand code that is currently in place
+        in an application, we provide clients with appropriate cost estimates for software projects.</string>
+
+    <string name="companycommunity1">OPS Consulting is proud to announce our 3rd annual Charity Golf Outing!
+        This year\'s charitable donations will help support the Special Operations Warrior Foundation. This
+        organization provides college scholarships and counseling services for the children of our fallen
+        veterans as well as financial assistance to severely wounded special operations personnel. </string>
+
+    <string name="companycommunity2">CAMP HOPE Inc. is a non-profit organization consisting of volunteers who
+        gather every summer in Frostburg, Maryland to help needy families and individuals from Allegany County
+        and the surrounding areas to upgrade their homes.
+        \nEach summer, over 400 youth and adults explore and share their Christian faith and fellowship and repair
+        between 55 and 60 homes during a four-week period. The individuals and families served receive home
+        rehabilitation, home winterization, and safer homes, as well as a new hope for the future. </string>
+
+    <string name="companycommunity3">The mission of the PKD foundation is to promote programs of research,
+        advocacy, education, support and awareness in order to discover treatments and a cure for
+        Polycystic Kidney Disease and improve the lives of all it affects.
+        \nThe PKD Foundation has come a long way since its first year of funding research - one grant for
+        only $25,000. In 2009, the PKD Foundation funded 32 projects in five countries for a total of
+        nearly $2 million. With the support of so many, the PKD Foundation has built an expansive and
+        passionate volunteer network of national events, such as the Walk for PKD and Run for PKD. </string>
+
+    <string name="companyleadership">Our phenomenal team of smart, dedicated employees work to build
+        strong relationships with clients, which has directly contributed to the steady growth of OPS Consulting.
+        \n
+        \n <b>Leadership</b>
+        \nOPS Consulting\'s executive team has a depth and breadth of engineering and business management expertise
+        that is among the best in the field. They work closely with our employees and partners to chart the continual
+        success and growth of the company.
+        \n
+        \nOur Board of Advisors are respected leaders in the technology and government communities who bring vision and
+        a deep network of contacts to OPS Consulting. Their invaluable advice and support guides the implementation
+        of our core competencies and strategies.
+        \n
+        \nKey personnel are hand-selected for their reputation as team players who apply high standards and provide
+        superlative customer service to elevate the company above the competition.
+        \n
+        \nEach member of our team collaborates closely with our customers to fully understand their needs and build
+        customized products and services around those needs.</string>
+
+    <string name="greg"><b>Greg Foley
+        \nFounder and Chief Executive Officer</b>
+        \n
+        \nGreg is an industry innovator who has earned global recognition for his development and management of
+        software systems.
+        \nPrior to establishing OPS Consulting, he was a co-owner of Coastal Research Technology, and he worked for
+        10 years at Lockheed Martin Missiles and Space.
+        \nHe received his B.S. from the University of Maryland, Baltimore County, and a Masters of Computer Science
+        from Johns Hopkins University.
+        \nGreg lives in Crownsville, Maryland with his wife and three children.</string>
+
+    <string name="steve"><b>Stephen Cummins
+        \nDirector</b>
+        \n
+        \nStephen is responsible for operations and strategic planning, with a specific focus on developing new
+        strategies and opportunities to enhance client services.
+        \nPrior to joining OPS, Stephen was Director of Accounting Policy at Citigroup. During his tenure, he
+        integrated multiple business acquisitions, including Travelers Group\'s acquisition of Citibank (forming
+        Citigroup in 1998) and Citigroup\'s acquisition of The Associates in 2000. He was also responsible for
+        the financial oversight of Citicorp Trust Bank, whose assets grew from $800 million to $32 billion over
+        a seven-year timeframe, and he led a number of large-scale projects, including the implementation of a
+        program to conform to the requirements of Sarbanes Oxley for the 2004 reporting period.
+        \nPrior to Citigroup, Stephen held positions at Alexander and Alexander Services, an international insurance
+        brokerage, and with Coca Cola Enterprises and KPMG Peat Marwick.
+        \nHe is a Certified Public Accountant and holds a B.A. in Business Administration from Seattle University.</string>
+
+    <string name="jim"> <b> Jim Galvin
+        \nChief Operating Officer </b>
+        \n
+        \nJim manages day-to-day operations for OPS Consulting, leading our client-facing staff, building relationships
+        with our business partners, and engaging with clients in each market that OPS supports. He also serves as
+        Program Manager for some OPS contracts.
+        \nAfter 20-plus years as a government employee within the Intelligence Community, concluding as a Deputy
+        Program Executive Officer (PEO), Jim moved to the private sector, spending the last several years as a
+        Program Manager and as a consultant to multiple agencies within both the IC and the Department of Defense.
+        He holds a Bachelor’s Degree from the University of Maryland at College Park, a Master’s Degree from The
+        Johns Hopkins University, and a Master’s Degree from the National Defense University’s Industrial College
+        of the Armed Forces, or ICAF (now The Dwight D. Eisenhower School for National Security and Resource Strategy).
+        \nJim resides in Eldersburg, Maryland, with his wife, a teacher in the Carroll County Public School System,
+        one daughter, one son, and one cantankerous English Bulldog, Mainzer, who is named for her original hometown.</string>
+
+    <string name="bill"><b>Bill Douglas
+        \nChief Strategy Officer</b>
+        \n
+        \nBill is responsible for assisting the Executive team with developing, executing and sustaining the strategic
+        initiatives of the company. Bill will lead the business development initiatives and insure they support the
+        strategic corporate plan for OPS.
+        \nWith more than 35 years working in the Information Technology industry, Bill has provided business
+        development, project management, and engineering expertise within the Federal government sector. Prior to
+        joining OPS, Bill was the Chief Executive Officer for COMSO Inc., delivering leadership in business development,
+        project management, sales, management oversite and corporate financial planning. Bill has held several Director,
+        Manager and Engineering roles with other IT companies such has Northrop Grumman, Newbridge Networks, Silicon
+        Graphics and Digital Equipment Corporation. Bill has a Project Management Professional (PMP) certification from
+        the Project Management Institute and is an IT Infrastructure Library (ITIL) v3 certified professional. He holds
+        a Bachelor’s degree in Computer Information Systems from California State University.
+        \nBill resides in Severna Park with his wife and is fortunate to have all three children living within the local
+        area to enjoy together the boating, sailing and outdoor sports of Maryland.</string>
+
+    <string name="ben"> <b> Ben Safford
+        \nDirector, Intelligence Analytics &amp; Training Division </b>
+\n
+        \nBen manages Ops Consulting’s Analyst Division, which provides Intelligence, Language, and Technical
+        Analysis services to clients within the Intelligence Community.
+        \nBen started his career with the Air Force as an Intelligence Analyst. After his six-year enlistment,
+        he worked as a Network Analyst for Booz Allen Hamilton. In late 2012, Ben moved to Ops Consulting as
+        a Cyber Analyst Support Specialist. He has a Bachelor’s degree in Information Systems and holds multiple
+        IT certifications.
+        \nBen joined the Air Force from the Chicago area but now lives in Brooklyn Park with his wife, Denise,
+        and his four children. He enjoys spending time with his family and coaching youth sports. During his
+        spare time, Ben enjoys watching his favorite sports teams, to include the Chicago Cubs.</string>
+
+    <string name="mark"><b>Mark Houston-Ludlam
+        \nDirector of Software and Systems Development Division</b>
+\n
+        \nMark manages the Software and Systems Development team which provides services in the areas of analytic
+        tools, big data analytics, system administration and others for the DoD community and other customers.
+        \nMark joined OPS Consulting in 2014 when OPS acquired Frontier Technologies, Inc. Mark was Vice President
+        and Co-owner of Frontier Technologies for over 26 years. Previous experience includes the design and
+        development of a variety of systems ranging from embedded tactical aircraft systems to enterprise level
+        data management and visualization systems. Mark has unique experience in the areas of system performance
+        evaluation and optimization.
+        \nMark has a Bachelor\'s Degree from the University of California in Physics. He is currently pursuing
+        certification as a Splunk System Architect. Mark lives in Lothian, Maryland with his wife, son and daughter
+        where they raise pastured livestock. He has one other daughter who is pursuing a medical degree at Washington
+        University in Saint Louis.</string>
+
+    <string name="brenda"><b>Brenda Cope
+        \nDirector of Systems Engineering &amp; Technical Assistance (SETA) Services Division</b>
+\n
+        \nBrenda has over 25+ years of diversified experience in Contracts Management, Project Management,
+        Acquisition Management, and Financial/Resource Management both as a civilian and contractor supporting
+        various federal government agencies. She holds a Bachelor’s Degree from the University of Maryland in
+        Business &amp; Management as well as two industry-recognized certifications, Defense Acquisition Workforce
+        Improvement Act (DAWIA) certification in Business Management and a Program Management Professional (PMP)
+        certification from the Program Management Institute (PMI).
+        \nAt OPS Consulting Brenda is responsible for the SETA team who provide consulting services across
+        multiple functional areas within the DoD and IC. Prior to joining OPS Consulting, Brenda held the following
+        corporate roles of Program Manager, Contracts Manager and Senior Business Manager at a number of small
+        businesses. She thrives in networking, forming alliances, and participating in cross-functional teams who
+        are working towards a common goal, whether in business or personal life.
+        \nBrenda resides in Ellicott City, Maryland, with her husband and “kitty” named Chester. She enjoys spending
+        time with their children and grandchildren in nearby communities as well as traveling, boating, and musical
+        entertainment. The last concert they attended was in NYC at Madison Square Gardens to see Fleetwood Mac.</string>
+
+    <string name="companystrategic1"><b>Over the years, we have developed a reputation for excellence with our prime contractors by:</b>
+        \n
+        \n\u2022 Actively participating in proposal work\n
+        \n\u2022 Providing fully qualified candidates\n
+        \n\u2022 Training our staff to help them excel\n
+        \n\u2022 Hiring staff that are high achievers\n
+        \n\u2022 Retaining staff through management attention, fun, rewards, and work/life balance\n
+        \n\u2022 Responsive and outstanding service to our mutual customers
+        \n
+        \n<b>Companies we do business with:</b>
+        \n </string>
+
+    <string name="companystrategic2"> As a prime contractor for the U.S. Department of Defense as well as other
+         government and corporate clients, OPS Consulting is positioned to enhance subcontractor opportunities and
+        competitiveness.
+        \n
+        \n<b>We pledge to:</b>
+\n
+        \n\u2022 Provide opportunities to teammates to join with OPS in mission-focused service to the government\n
+        \n\u2022 Foster a wholesome team environment\n
+        \n\u2022 Be fair in distributing the work amongst teammates\n
+        \n\u2022 Communicate with teammates regularly- progress, issues, awards\n
+        \n\u2022 Allow teammates to develop, staff and manage tasks under our contracts</string>
+
+    <string name="qacbody">The Quality Assessment Capability (QAC) is a powerful, effective, state-of-the-art process to quantify the quality of software
+        applications for the purpose of engineering highly reliable and maintainable products. The quality assessment is conducted in a static environment
+        and compares the software measures of the application against other domain specific applications and/or industry standards.
+        \nOur signature product has analyzed over 750,000,000 lines of code to provide defensible estimating for software projects. The QAC is a highly
+        extensible and flexible methodology which is rapidly adaptable to a variety of customer needs, emerging technologies, and diverse measurement objectives.
+        \n
+        \n<b>QAC provides "actionable information" to decision-makers, beyond what standard metric tools offer. This objective, substantive information
+        assists in:</b>
+        \n
+        \n\u2022 Contractor evaluation\n
+        \n\u2022 Processing corrections to ongoing development efforts\n
+        \n\u2022 Measuring the quality of software code for comparisons with other applications\n
+        \n\u2022 Setting a threshold rating for the quality of future application code deliverables\n
+        \n\u2022 Guiding future migration decisions\n
+        \n\u2022 Identifying sources of risk\n
+        \n\u2022 Providing a review of the software lifecycle risks associated with multi-component systems\n
+        \n\u2022 Comparing systems-independent of language, platform, architecture, etc.\n
+        \n\u2022 Guiding software build, buy, or re-use decisions
+        \n
+        \n<b>QAC supports:</b>
+        \n
+        \n\u2022 Configuration management\n
+        \n\u2022 Quality assurance\n
+        \n\u2022 Testing\n
+        \n\u2022 Independent verification and validation\n
+        \n\u2022 Metrics programs\n
+        \n\u2022 Cost estimation\n
+        \n\u2022 Quality and reliability engineering\n
+        \n\u2022 Risk management\n
+        \n\u2022 Project management\n
+        \n\u2022 Statistical process control\n
+        \n\u2022 Product certification\n
+        \n\u2022 Cost and benefit analysis\n
+        \n\u2022 Return on investment analysis\n
+        \n\u2022 Process improvement\n
+        \n\u2022 Capability Maturity Model assessments\n
+        \n\u2022 Business process reengineering\n
+        \n\u2022 ISO 9001 registration\n
+    </string>
+
+    <string name="softqualanastr">OPS Consulting\'s focus on customer success during software development
+        has led to the development the Quality Assessment Capability, a proprietary product that quantifies
+        the quality of software applications and allows us to engineer highly reliable and maintainable
+        products. The assessment is conducted in a static environment and compares the software measures
+        and metrics of the application against other domain specific applications and industry standards.
+        There are several benefits to the acquisition professional using this suite of tools that assess
+        software size, maintainability, complexity, and security features that directly drive a development
+        program\'s acquisition and support costs.
+        \n
+        \n<b>Reuse:</b>
+        \nQAC\'s suite of tools has the ability to independently identify, analyze, and evaluate a code\'s
+        ability to be reused. Through these proprietary QAC developed tools – such as J-JOC, X-Ray, and Socket
+        – QAC can quickly determine the code\'s quality, maintainability, and security posture for the cost
+        estimator to determine the cost effectiveness of reusing this heritage software. This eliminates the
+        ambiguity and potential pitfalls of incorporating reuse as a cost savings measure in software estimates.
+        By effectively analyzing reuse or heritage code, the acquisition professional can now affect cost risk
+        through proper code analysis.
+        \n
+        \n<b>Measure:</b>
+        \nQAC has developed innovative tools and techniques that have automated software measurement for speed
+        and accuracy. Through its CodeMetrics™ tool, which is also available in a GOTS form, QAC can quickly
+        and easily count potentially any language type currently being used in the market today with the ease
+        of a mouse click. Additionally, QAC employs the standard function point counting techniques of IFPUG,
+        thus providing even more accuracy when measuring structured language development. Where QAC takes
+        software estimation to the next generation is in the engagement of Object Oriented (OO) estimating.
+        When software development programs use a more modern OO design method, which is becoming very common,
+        traditional SLOC or Function Point counting can dangerously skew the size of the development effort.
+        By matching an OO estimating method to its native OO development environment, QAC eliminated the common
+        translation error and produces more accurate, more defendable, and more traceable cost estimates, thus
+        keeping the acquisition professional on the cutting edge of software cost estimating techniques.
+        \n
+        \n<b>Estimating:</b>
+        \nQAC works with existing estimating tools that have established track records in the estimating
+        community, but where QAC goes beyond these parametric tools is in how it integrates them into one
+        user format. QAC has developed a tool called AutoRisk™, which is also available in a GOTS form,
+        that has greatly increased software estimating productivity through its simple user interface and
+        convenient exportable outputs. Additionally, QAC has been integrated with one of the leading commercial
+        tools for OO estimating. The incorporation of such tools into QAC allows the acquisition professional
+        to stay current with modern development practices.
+        \n
+        \n<b>QAC Implementation</b>
+        \nQAC is meant to be a lean application of software analysis, and the implementation of QAC capabilities
+        is driven by the scope and expediency of the requirements. QAC can be implemented through the deployment
+        of QAC analysts as an imbedded yet pooled group of resources at the disposal of estimating leadership.
+        Depending on the scope and requirements, QAC analysts support the estimating team with developing the
+        software specific portions of the estimate, and this allows for software- focused expertise working on
+        this critical area of the larger system. By also pooling the QAC resources, QAC analysts track and manage
+        software estimates across the enterprise synthesizing the resultant data and providing ever improving
+        software metrics, development stating, and software final product analysis.
+        \n
+        \n<b>QAC Impact</b>
+        \nQAC capabilities have been employed on several programs with the DoD and Intelligence community, and our
+        tools have been used to analyze over 200 million lines of code on hundreds of software programs.
+        \n
+        \nIn summary, QAC provides the most extensive and technologically advanced software estimating capability
+        available on the market. The developed and commercial tools we bring, along with our growing staff of
+        qualified software professionals, provide cost estimating agencies with the power and insight needed to
+        accurately estimate the most complex acquisition programs today.</string>
+
+    <string name="softdevqac">Custom software development is built using OPS\' Quality Assessment Capability,
+        a proprietary product that quantifies the quality of software applications and allows us to ensure all
+        software is operationally efficient, secure, and up to our high standards.
+
+        \n OPS software development experts work closely with customers to understand the complexities of their
+        design requirements. We use industry software development standards for efficiency and seamless
+        integration with existing legacy software and systems.</string>
+
+    <string name="setamain">At OPS Consulting, we understand that success requires more than innovative technical solutions.
+        Requirements gathering, planning, acquisition expertise, budget oversight, and risk management, combined with
+        deep understanding of the customer domain, are each crucial pieces to a successful program.
+\n
+        \n Engineering Management isn\'t "one size fits all." Processes and strategies must be tailored to the needs
+        of each individual project. Our expertise spans the entire program life-cycle - all of the knowledge and
+        experience needed to support every phase of a technology program.
+        \n
+        <b>\nOur SETA specialties include:</b>
+\n
+        \n\u0009\u0009\u2022 Program management\n
+        \n\u0009\u0009\u2022 Risk Assessment and Management\n
+        \n\u0009\u0009\u2022 Contracting &amp; Business Management\n
+        \n\u0009\u0009\u2022 Requirements Analysis and Management\n
+        \n\u0009\u0009\u2022 Configuration Management\n
+        \n\u0009\u0009\u2022 Independent Validation &amp; Verification\n
+        \n\u0009\u0009\u2022 Process Engineering\n
+        \n\u0009\u0009\u2022 Quality Assurance\n
+        \n\u0009\u0009\u2022 Earned Value Management</string>
+
+    <string name="setamissionsupport">
+        Provide knowledgeable and experienced mission specialists to support our customers in achieving operational
+        mission objectives through decision making at the executive, management, and operational mission levels.
+        These individual are subject matter experts in specific fields of study. </string>
+
+    <string name="setacquisitionsupport">Our experienced professionals help the government manage all stages of the
+        DoD 5000 Milestone Decision Process for Major Automated Information Systems at the ACAT-1 level and below
+        for the Intelligence Community. We lead the generation of support documentation including Acquisition Strategies,
+        Capabilities Development Document/Capabilities Production Document, Clinger Cohen compliance documents and the
+        full complement of solicitation documents and plans once the government is ready to proceed with procurement.</string>
+
+    <string name="setacostandscanalysis">When accurate, defensible life cycle cost estimation is required, OPS
+        Consulting brings a unique strategy to bear that our clients depend on. Our repeatable and customizable
+        process is characterized by having our analysts working with clients to understand technical, programmatic,
+        and cost baselines at all stages within a program life cycle.
+\n
+        \nOPS Consulting\'s key technical staff translate program requirements into cost drivers that are traceable
+        from concept, development, production, operation, and support. Our process in which we closely coordinate
+        with technical and program management staff enables our experienced subject matter experts to provide defensible
+        analyses. OPS Consulting can facilitate your full decision support of acquisition, procurement, and
+        operational implementations.</string>
+
+    <string name="setaprogrammanagement">OPS professionals are skilled in agile program management methods and
+        can tailor our approach to each individual program. We provide a focus on efficiently and effectively
+        meeting our customers\' mission and business objectives. Our program managers are DAWIA or PMI certified
+        PMP professionals that manage every aspect of program development including cost, schedule, functional,
+        and quality assurance performance.</string>
+
+    <string name="softwareandsystemsdevstr">Highly-qualified and experienced professionals at OPS perform
+        software engineering and systems integration. We take an agile approach to software development
+        and systems integration. Our experts are attentive to customer requirements and create purpose-built
+        solutions. We fund ongoing training for our employees in cutting-edge technologies that complement
+        our clients\' missions.
+        \n
+        \n<b>Our engineering and integration experience includes:</b>
+        \n
+        \n\u0009\u0009\u2022 Quantum &amp; HPC Computing\n
+
+        \n\u0009\u0009\u2022 Machine Learning\n
+
+        \n\u0009\u0009\u2022 Big Data\n
+
+        \n\u0009\u0009\u2022 Real-Time Streaming Analytics\n
+
+        \n\u0009\u0009\u2022 Prototyping\n
+
+        \n\u0009\u0009\u2022 Splunk Enterprise Applications\n
+
+        \n\u0009\u0009\u2022 System &amp; Software Architecture\n
+
+        \n\u0009\u0009\u2022 System Development &amp; Integration\n
+
+        \n\u0009\u0009\u2022 Automated Software Testing\n
+
+        \n\u0009\u0009\u2022 Software Quality Assurance\n
+        \n
+        \n Customers benefit from our competencies due to the way our software engineering and systems integration
+        practices revolve around Agile processes such as Scrum. Scrum is a fluid and flexible way of development
+        and focuses on being adaptable and implementing solutions throughout the lifecycle process. Customers come
+        first, and by remaining agile, we are able to give them a clear view of a project from start to finish. </string>
+
+    <string name="softwaredatabasestr">OPS Consulting provides database development services for Cloud
+        Implementations, MSSQL, MySQL, Oracle, Sybase, and Access databases. We use the latest development
+        technologies to ensure that your custom application will function properly. Our experienced database
+        developers can work directly with your in-house staff or, if the situation dictates, develop the entire
+        project from design through training and implementation.
+        \n
+        \n<b>Our Database Engineering specialties include design, development, and administration of:</b>
+        \n
+        \n\u2022 RDBMS : Oracle 8i Ð 11g, Sybase databases, MySQL databases, MS Access DB databases\n
+        \n\u2022 CLOUD : HADOOP, Hive, Pig, ZooKeeper </string>
+
+    <string name="systemsadminstr">Building and maintaining high-performance IT solutions is our goal
+        when meeting the IT needs of our customers. From a thorough analysis of the current infrastructure
+        to setting up a cost-effective, long-term support solution, the OPS Consulting team helps customers
+        meet their objectives.
+        \n
+        \n<b>Our system administration expertise includes:</b>
+        \n
+        \n\u2022 Linux, Solaris and Windows operating systems\n
+
+        \n\u2022 Enterprise server administration\n
+
+        \n\u2022 Desktop platforms, thick and thin client\n
+
+        \n\u2022 Network routers, bridges and gateway administration\n
+
+        \n\u2022 SAN, DAS, and NAS storage solutions\n
+
+        \n\u2022 Disaster recovery\n
+
+        \n\u2022 Virtualization technologies\n
+
+        \n\u2022 High performance computing</string>
+    
+    <string name="softwareengineeringstr">At OPS Consulting, we bring together a core set of software
+        development capabilities, perfected with best practices gained over years of experience. Coupled
+        with domain knowledge, we apply these software development capabilities to a focused set of
+        solutions and services to help our customer\'s meet their mission critical objectives.
+        \n
+        \n <b>Our Software Engineering specialties include:</b>
+        \n
+        \n\u2022 Custom software applications design and development using:\n
+
+        \n\u2022 Object Oriented Development : Java, J2EE, JSP, Servlets, C++\n
+
+        \n\u2022 Microsoft : Visual Basic, VB.Net, VBA\n
+
+        \n\u2022 Scripting : Perl, JavaScript, VB Script, PHP\n
+
+        \n\u2022 Mark Up-Languages : HTML, DHTML, XML, XSL, XHTML\n
+
+        \n\u2022 Cloud Technologies : Hbase, Pig, Hive, ZooKeeper, Mahout</string>
+
+    <string name="systemengineeringstr">OPS Consulting\'s system engineers have experience in all aspects
+        of the system development lifecycle. We provide requirements analysis and management, Interface
+        Control Document (ICD) development, Concept of Operations (CONOP) development, and enterprise
+        and system architecture development. We utilize an interdisciplinary engineering management process
+        encompassing the desired set of system solutions to satisfy customer needs. The big-picture is
+        always maintained through effective communication with our customer and an in depth knowledge of
+        the integrated life-cycle behind every system.
+        \n
+        \n<b>Our System Engineering specialties include:</b>
+        \n
+        \n\u2022 Enterprise Architecture (SYSTEM ARCHITECT and C4ISR)\n
+
+        \n\u2022 Process Re-Engineering\n
+
+        \n\u2022 Business Analysis\n
+
+        \n\u2022 Systems Analysis\n
+
+        \n\u2022 System Design\n
+
+        \n\u2022 Systems Integration</string>
+    
+    <string name="networkengineeringstr">With 10 years of experience in the engineering, design, testing, operation, administration, maintenance, and troubleshooting of wide-area and local area networks in both commercial and Government environments, the OPS Consulting Network Engineering team is widely recognized as key contributors to major network systems.
+        \n
+        \n<b>Our Network Engineering specialties include:</b>
+        \n
+        \n\u2022 Network Design, Administration, Security, and Engineering\n
+
+        \n\u2022 WAN, LAN, and SAN technologies\n
+
+        \n\u2022 ATM, GigaBit Ethernet\n
+
+        \n\u2022 Network and Application Security\n
+
+        \n\2022 Network Traffic Monitoring and Timing\n
+
+        \n\u2022 Program Management Support\n
+
+        \n\u2022 O/S expertise (UNIX, LINUX, Windows)\n
+
+        \n\u2022 Help Desk management\n</string>
+
+    <string name="careersmainstr">Our philosophy is very simple: clients are best served by consultants who truly focus
+        on the employee. That is why we offer a competitive salary and benefits package paired with scheduling
+        flexibility to provide an exceptional work-life balance. In addition, we provide unlimited opportunities
+        to learn and grow professionally in a creative environment with minimal bureaucracy.
+        \n
+        \n We continuously endeavor to make sure our employees feel a part of the OPS Consulting Family with OPS Mixers,
+        fun events, luncheons, and a Winter Celebration. We interact with our employees on a regular basis and even ask
+        for input on how we can strive to make OPS the prime workplace for existing and new employees. If you are looking
+        for a company that will provide you with a balanced approach to work and life, OPS is the place for you.
+        \n
+        \n OPS Consulting is committed to providing equal opportunity to all applicants for employment without regard to race,
+        color, religion, sex, age, national origin, disability, veteran status, marital status, sexual orientation, creed,
+        or any other applicable protected class status. The majority of our positions require a security clearance and may
+        require a background investigation and a polygraph examination. Clearance and polygraph processing will be completed
+        by the U.S. Government.</string>
+
+    <string formatted="false" name="careersbenifits"><b>HEALTH INSURANCE</b>
+        \n
+        \n\u2022 Individual and Family Plans are available under United Healthcare. Coverage beings on the first day of
+        employment.
+        \n\u2022 OPS offers two health plans: 1 - Choice HMO with No Deductible and 2 - Choice POS with HSA.
+        \n\u2022 OPS funds 80% of ALL plan premiums AND funds 50% of the POS Deductible.
+        \n
+        \n <b>DENTAL AND VISION INSURANCE</b>
+        \n
+        \n\u2022 OPS offers individual and family plans through Delta Dental PPO Insurance and EyeMed PPO Vision Insurance.
+        \n
+        \n <b>HEALTH SAVINGS PLAN</b>
+        \n
+        \n\u2022 HSA is a tax-advantaged medical savings account available to employees enrolled in the Choice POS Plan.
+        \n
+        \n <b>FLEXIBLE SPENDING ACCOUNT &amp; DEPENDENT CARE (FSA and DCAP)</b>
+        \n
+        \n\u2022 Take advantage of the FSA and DCAP options to pay medical and dependent care benefits on a pre-tax basis.
+        \n
+        \n<b>LIFE INSURANCE and AD&amp;D - SHORT &amp; LONG TERM DISABILITY</b>
+        \n
+        \n\u2022 OPS provides Group Life insurance with a benefit two times your annual salary up to $200,000 at no cost to the
+        employee.
+        \n\u2022 OPS provides Short Term and Long Term Disability coverage at no cost to the employee.
+        \n\u2022 Voluntary life insurance, which includes coverage for spouse and children, is also available to employees.
+        \n
+        \n<b>401K PACKAGE</b>
+        \n
+        \n\u2022 OPS offers a Safe Harbor 401(k) Plan with immediate and 100% vesting upon enrollment.
+        \n\u2022 The Company will match 5%, dollar for dollar, of your 5% contribution
+        \n
+        \n<b>PAID TIME-OFF</b>
+        \n
+        \n\u2022 OPS provides its employees with 4 weeks of PTO January 1st of each year.
+        \n\u2022 At the end of each year, carry over one week to the following year or cash out unused PTO
+        \n
+        \n<b>HOURLY COMP TIME</b>
+        \n
+        \n\u2022 OPS matches one hour of PTO for every extra hour worked on contract per week.
+        \n
+        \n<b>HOLIDAYS</b>
+        \n
+        \n\u2022 OPS provides 10 paid holidays per year – any of which can be used as floating holidays if contract allows.
+        \n
+        \n<b>EMERGENCY and ADMIN HOURS</b>
+        \n
+        \n\u2022 OPS provides Emergency and Admin hours to employees so they may attend a company meeting or stay home during
+        inclement weather without having to use PTO or make up time.
+        \n
+        \n<b>TRAINING &amp; PROFESSIONAL DEVELOPMENT</b>
+        \n
+        \n\u2022 OPS provides employees $5000 ANNUALLY toward approved education courses, training, and certifications.
+        \n\u2022 OPS encourages personal and professional growth by supporting goals set by our employees in their Personal
+        Development Plans.
+        \n
+        \n<b>SPOT AWARDS</b>
+        \n
+        \n\u2022 Exceptional performance and professional development are rewarded throughout an employee\’s career with OPS.
+        In addition to annual assessments, OPS provides Spot Awards for key performers!
+        \n
+        \n<b>WELLNESS SERVICES</b>
+        \n
+        \n\u2022 OPS provides all employees with a membership card offering 20% discounts for all spa and wellness services at
+        the Face Place Spa and Wellness Center in Columbia, MD.
+        \n
+        \n<b>EMPLOYEE REFERRAL BONUS</b>
+        \n
+        \n\u2022 OPS offers employees an unlimited $7500 BONUS for the referral of each qualified candidate who is subsequently
+        hired by the Company.
+        \n
+        \n<b>PAID MILITARY LEAVE</b>
+        \n
+        \n\u2022 OPS supports our men and women in uniform. Reservists will be granted up to 10 days of absence per year with
+        pay for reserve duty while receiving regular pay. OPS also takes measures to support military personnel who receive
+        involuntary deployment orders.
+</string>
+
+    <string name="jobDescriptions">At OPS Consulting, we offer jobs in Annapolis Junction (MD), College Park (MD), Hanover (MD),
+        Bolling AFB (Washington D.C.), McLean (VA), Northern Virginia, Augusta (GA), and San Antonio (TX). General job categories
+        include: Junior, Mid-Level, and Senior Intelligence Analysts, Junior, Mid-Level, and Senior Software Engineers, Financial
+        Analysts, Acquisition Professionals, and Systems Engineers. Visit our website to look at in-depth descriptions of all our
+        available positions.
+</string>
+
+</resources>

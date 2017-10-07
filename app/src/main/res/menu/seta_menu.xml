@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/setaMenu"
+            android:title="SETA Aquisition and Support" />
+        <item
+            android:id="@+id/supportMenu"
+            android:title="Mission and Acquisition Support" />
+        <item
+            android:id="@+id/costMenu"
+            android:title="Cost and Economic Analysis" />
+        <item
+            android:id="@+id/programMenu"
+            android:title="Project Management" />
+    </group>
+
+
+</menu>
